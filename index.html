@@ -1,38 +1,110 @@
 <!DOCTYPE html>
-<html>
-<body bgcolor="#b4b4b4">
-<h1>Welcome to Project Gamayun</h1>
+<html lang="en">
+<title>Gamayun Homepage</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+<body>
 
-<p>The Gamayun is a creature from Slavic mythology that would issue prophecies because she had access to all knowledge. The idea behind Project Gamayun ("Gamayun") is to help capture and make as much cybersecurity knowledge, regardless of source, readily available and accessible as possible.</p>
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-red w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">People</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Requirements</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Contact</a>
+  </div>
 
-<h2>Why?</h2>
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 1</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 2</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 3</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 4</a>
+  </div>
+</div>
 
-<p>Do you know what the state of the art in any security discipline is? You know what you know, and what some friends and colleagues know, but before you embark on a new project do you do a literature review? That's a thing academics do to help ensure that what they want to do is either novel, or something that builds on the work of others. Do you know how many people in all the universities in all the world are working on security problems? Have you read all their papers? Have you gone to every security conference everywhere in the world (something like 2000 and counting) to keep abreast of the latest and greatest?</p>
+<!-- Header -->
+<header class="w3-container w3-red w3-center" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo">Project GAMAYUN</h1>
+  <p class="w3-xlarge">Cybersecurity Research Repository +</p>
+</header>
 
-<p><i>Of course not, that's ridiculous. Its an impossible task.</i>
+<!-- First Grid -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>What is Project Gamayun?</h1>
+      <h5 class="w3-padding-32">The Gamayun is a creature from Slavic mythology that would issue prophecies because she had access to all knowledge. The idea behind Project Gamayun ("Gamayun") is to help capture and make as much cybersecurity knowledge, regardless of source, readily available and accessible as possible.</h5>
 
-Well, its impossible <em>now.</em> One of the goals of Gamayun is to make it entirely possible. If we're successful, Gamayun should:
-<ul>
-<li>Be the largest single repository of security research in the world.</li>
-<li>"Augment" that content (or descriptions thereof) to varying degrees, with metadata and other content to help make it more readily discoverable and understandable.</li>
-<li>Make it possible to for researchers, solution developers, and others to more effectively consume larger quantities of research.</li>
-<li>Make it easier for researchers around the world to find each other and collaborate (no more wheel re-invention).</li>
-<li>Ensure that researchers get their work distributed as widely as possible so that it can be put to effective use as we build a safer and more secure cyberspace.</li>
-</ul>
+      <p class="w3-text-grey">Why?
 
+      Do you know what the state of the art in any security discipline is? You know what you know, and what some friends and colleagues know, but before you embark on a new project do you do a literature review? That's a thing academics do to help ensure that what they want to do is either novel, or something that builds on the work of others. Do you know how many people in all the universities in all the world are working on security problems? Have you read all their papers? Have you gone to every security conference everywhere in the world (something like 2000 and counting) to keep abreast of the latest and greatest?
 
-<h2>What Gamayun is Not</h2>
+      Of course not, that's ridiculous. Its an impossible task.
+      Well, its impossible now. One of the goals of Gamayun is to make it entirely possible. If we're successful, Gamayun should:
 
-<p>We are not Sci-Hub. While we understand the motivation for such an effort (academic publishing is basically a racket), we're not down with piracy. We will work within existing legal regimes to gain the appropriate permissions and rights to use and augment the work of researchers whether they are in academia, industry, or independents.</p>
-
-<p>We are not Academia.edu. We wish we'd been first, but we're grateful for the lessons learned. There is no VC money behind this project (and the corresponding expectation of growth at all costs). At this point we rely on volunteers and donations (and some self-funding). The paperwork to become a 501(c)(3) is in the works. The goal is that all participants in Gamayun are compensated to some degree for their effort and energy.</p>
-
-<h2>Interested?</h2>
-
-<p>Starting anything new and sufficiently different is a scary and challenging experience. No one can do it alone and stay healthy (or sane). To succeed, Gamayun needs help from a wide variety of disciplines: engineering, library science, editors, as well as security. If you're interested in lending a hand, and getting in on the ground floor, please drop a line to  <a href="mailto:support@gamayun.org">support@gamayun.org</a></p>
+      - Be the largest single repository of security research in the world.
+      - "Augment" that content (or descriptions thereof) to varying degrees, with metadata and other content to help make it more readily discoverable and understandable.
+      - Make it possible to for researchers, solution developers, and others to more effectively consume larger quantities of research.
+      - Make it easier for researchers around the world to find each other and collaborate (no more wheel re-invention).
+      - Ensure that researchers get their work distributed as widely as possible so that it can be put to effective use as we build a safer and more secure cyberspace.
 
 
-<p><i>* Look, we know some of you don't like the term 'cybersecurity.' We came up when it was computer security and information security and information assurance, so we get it. But the number of people who use the term as shorthand far outnumber those who don't, and while accuracy in terminology is important, we're going to save our energy for the bigger fights ahead.</i></p>
-</font>
+      What Gamayun is Not
+
+      We are not Sci-Hub. While we understand the motivation for such an effort (academic publishing is basically a racket), we're not down with piracy. We will work within existing legal regimes to gain the appropriate permissions and rights to use and augment the work of researchers whether they are in academia, industry, or independents.
+
+      We are not Academia.edu. We wish we'd been first, but we're grateful for the lessons learned. There is no VC money behind this project (and the corresponding expectation of growth at all costs). At this point we rely on volunteers and donations (and some self-funding). The paperwork to become a 501(c)(3) is in the works. The goal is that all participants in Gamayun are compensated to some degree for their effort and energy.
+
+      Interested?
+
+      Starting anything new and sufficiently different is a scary and challenging experience. No one can do it alone and stay healthy (or sane). To succeed, Gamayun needs help from a wide variety of people: engineers, librarians, editors, and security practitioners. If you're interested in lending a hand, and getting in on the ground floor, please drop a line to support@gamayun.org
+
+
+      * Look, we know some of you don't like the terms 'cybersecurity' or 'cyberspace'. We came up when it was computer security and information security and information assurance, so we get it. But we're not going to get to where we're going being pedantic. A whole lot more of 'them' use the words than we don't, so we're going to save our energy for the fights that matter. If this is a deal breaker for you, thanks for making it this far and wish us luck.
+</p>
+    </div>
+
+    <div class="w3-third w3-center">
+      <i class="fa fa-anchor w3-padding-64 w3-text-red"></i>
+    </div>
+  </div>
+</div>
+
+<div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
+    <h1 class="w3-margin w3-xlarge">Accelerating Solutions | Saving Time | Maximizing Resources</h1>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity">
+  <div class="w3-xlarge w3-padding-32">
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+ </div>
+</footer>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else {
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+
 </body>
 </html>
