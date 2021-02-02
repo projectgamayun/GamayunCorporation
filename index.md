@@ -1,7 +1,9 @@
 # The Gamayun Corporation
 
-[ Projects ] [ About ] [Requirement ] [ Contact ]
+[ [Projects](projects.md) ] [ [About](about.md) ] [ [Requirements](requirements.md) ] [ [Contact](contact.md) ]
+
 ***
+
 ### The Gamayun is a creature from Slavic mythology that had access to all knowledge. 
 
 ### The Gamayun Corporation is a 501(c)(3) public charity focused on leveraging security research in order to serve the public good.
@@ -20,4 +22,4 @@ If you want to be a PhD in physics, you can look up all the physics, in a reason
 
 Without a concerted effort to capture security research and make it accessible, we run the risk of outright forgetting what came before. Conferences (and their proceedings) come and go. People take down web sites and GitHub repos for various reasons. <a href="https://archive.org/web/">The Wayback Machine</a> doesn't capture everything, and we shouldn't have to rely on a general purpose archiving effort to preserve such an important set of information. If we have a talent shortage in this field, shouldn't we be doing everything we can to ensure that rare talent spends it time working on the novel, or making substantial new contributions, vice stunt hacking and reinventing the wheel?
 
-My name is <a href="https://www.linkedin.com/in/mtanji/">Mike,</a> and I've been involved in security in one way shape or form for almost 30 years. I'm done wishing and hoping someone else would do what needs to be done on this issue. If any of this resonates with you and you want to support the cause, check out our <a href="requirements.html">requirements</a> page.
+My name is <a href="https://www.linkedin.com/in/mtanji/">Mike,</a> and I've been involved in security in one way shape or form for almost 30 years. I'm done wishing and hoping someone else would do what needs to be done on this issue. If any of this resonates with you and you want to support the cause, check out our [requirements](requirements.md) page.
