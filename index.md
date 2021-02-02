@@ -1,4 +1,4 @@
-## A public charity focused on cybersecurity research and history
+# The Gamayun Corporation
 
 ### The Gamayun is a creature from Slavic mythology that had access to all knowledge. 
 
