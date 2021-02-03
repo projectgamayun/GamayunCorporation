@@ -12,6 +12,7 @@
 
 #### Why does the world need Gamayun in the first place?
 
+
 Our relationship with computing technology has never been more intimate, and that intimacy is only growing deeper. Computers used to take up whole buildings, then rooms, then merely desktops. Today laptops, handhelds (smartphone), wearables (smartwatch), and implantables (medical devices) are commonplace.
 
 Yet not a week goes by without hearing about a security practitioner who came up with this 'totally new' idea...that was really something someone else had come up with five years prior, that was an extension of something someone else had done 10 years before that, and so on. Did nobody study our history? Did they even know we had a history? We pride ourselves on being scientific, yet when it comes to some basic practices we are far behind the curve.
