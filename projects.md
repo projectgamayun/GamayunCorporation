@@ -1,6 +1,12 @@
 # Computer & Information Security Research Repository
 ### a Gamayun Project
 
+***
+
+[ [Projects](projects.md) ] [ [People](people.md) ] [ [Requirements](requirements.md) ] [ [Contact](contact.md) ]
+
+***
+
 ## Why A Cybersecurity Research Repository?
 
 Do you know what the state of the art is in any security discipline? You know what you know, and what some friends and colleagues know, but before you start a new research project do you do a literature review? That's a thing academics do to understand what's been done before. It helps ensure that what they end up doing is either novel, or something that builds on the work of others in a meaningful fashion. Do you know how many people in all the universities or corporations in all the world are working on the same problem you are? Have you read all their papers? Do you actually read every abstract or summary of every entry on all 117 pages of your Google foo results?  Have you gone to the library to look for work that hasn't been digitized yet? Have you gone to every security conference everywhere in the world (something like 2000 - annually - and counting) to keep abreast of the latest developments?
