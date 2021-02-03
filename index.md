@@ -7,7 +7,9 @@
 ### The Gamayun is a creature from Slavic mythology that had access to all knowledge. 
 
 ### The Gamayun Corporation is a 501(c)(3) public charity focused on leveraging security research in order to serve the public good.
+
 ***
+
 #### Why does the world need Gamayun in the first place?
 
 Our relationship with computing technology has never been more intimate, and that intimacy is only growing deeper. Computers used to take up whole buildings, then rooms, then merely desktops. Today laptops, handhelds (smartphone), wearables (smartwatch), and implantables (medical devices) are commonplace.
