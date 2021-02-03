@@ -1,9 +1,7 @@
+[ [Projects](projects.md) ] [ [People](people.md) ] [ [Requirements](requirements.md) ] [ [Contact](contact.md) ]
+
 # Computer & Information Security Research Repository
 ### a Gamayun Project
-
-***
-
-[ [Projects](projects.md) ] [ [People](people.md) ] [ [Requirements](requirements.md) ] [ [Contact](contact.md) ]
 
 ***
 
