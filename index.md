@@ -1,6 +1,6 @@
-# The Gamayun Corporation
-
 [ [Projects](projects.md) ] [ [People](people.md) ] [ [Requirements](requirements.md) ] [ [Contact](contact.md) ]
+
+# The Gamayun Corporation
 
 ***
 
