@@ -6,7 +6,7 @@
 
 ### The Gamayun is a creature from Slavic mythology that had access to all knowledge. 
 
-### The Gamayun Corporation is a 501(c)(3) public charity focused on leveraging security research in order to serve the public good.
+### The Gamayun Corporation is a 501(c)(3) public charity focused on leveraging security research and history in order to serve the public good.
 
 ***
 
