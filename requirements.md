@@ -2,7 +2,7 @@
 
 ## Requirements
 
-To make CISRR a reality, we need a couple of things...
+Our first project is the Computer and Information Security Research Repository (CISRR - "scissor"). To make CISRR a reality, we need a couple of things...
 
 ### Basics
 
