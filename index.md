@@ -4,8 +4,6 @@
 
 ### The Gamayun is a creature from Slavic mythology that has access to all knowledge. 
 
-#### The Gamayun Corporation is a 501(c)(3) non-profit focused on leveraging security research and history in order to serve the public good.
-
 ***
 
 #### Why does the world need Gamayun in the first place?
@@ -18,6 +16,6 @@ Yet not a week goes by without someone talking about a 'new' idea, that was real
 
 Without a concerted effort to capture and make accessible security research and history, we condemn ourselves to perpetual wheel-reinvention. Conferences and their proceedings are not archives, and they have a tendancy to come and go. People take down web sites and GitHub repos for various reasons. <a href="https://archive.org/web/">The Wayback Machine</a> doesn't capture everything, and we shouldn't have to rely on a general purpose archiving effort to preserve such an important set of information. 
 
-My name is <a href="https://www.linkedin.com/in/mtanji/">Mike,</a> and I've been involved in security in one way shape or form for almost 30 years. I'm done wishing and hoping someone else would do what needs to be done on these issues. If any of this resonates with you and you want to support the cause, [Contact](contact.md) me at your convenience.
+My name is <a href="https://www.linkedin.com/in/mtanji/">Mike,</a> and I've been involved in security in one way shape or form for almost 30 years. I'm done wishing and hoping someone else would do what needs to be done on these issues. I set up the Gamayun Corporation - a 501(c)(3) non-profit - to leverage security research and history in order to serve the public good. If any of this resonates with you and you would like to support the cause, [Contact](contact.md) me at your convenience.
 
 [ [Projects](projects.md) ] [ [People](people.md) ] [ [Requirements](requirements.md) ] [ [Contact](contact.md) ]
