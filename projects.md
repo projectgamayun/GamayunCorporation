@@ -23,10 +23,10 @@ Well, it's impossible *now.* One of the goals of CISRR is to make it entirely po
 
 * **We are not gatekeeping.** Anyone who wants to get into security in general and security research in particular should be encouraged to do so and given all the support possible. This is not about where you went to school or how you learned your trade or where you come from. It is about ensuring that those who want to learn have access to knowledge, appreciate what's been done, and understand what needs doing.
       
-* **We are not Sci-Hub.** While we understand the motivation for such an effort (the racket that is academic publishing), we're not down with piracy. We will work within existing legal regimes to gain the appropriate permissions and rights to use and augment the work of researchers whether they are in academia, industry, or independent.
+* **We are not Sci-Hub.** While we understand the motivation for such an effort, we will work within existing legal regimes to gain the appropriate permissions and rights to use and augment the work of researchers whether they are in academia, industry, or independent.
 
-* **We are not Academia.edu.** We wish we'd been first, but we're grateful for the lessons learned. **Gamayun is an IRS 501(c)(3) public charity.** There is no VC money behind this project (and the corresponding expectations). At this point we rely on volunteers and donations.
+* **We are not Academia.edu.** We wish we'd been first, but we're grateful for the lessons learned. **CISRR is a project of the Gamayun Corp., an IRS 501(c)(3) public charity.** There is no VC money behind this project (and the corresponding expectations). At this point we rely on volunteers and donations.
 
 ## Interested?
 
-Starting anything new and sufficiently different is a scary and challenging experience. No one can do it alone and stay healthy (or sane). To succeed, CISRR needs help from a wide variety of people: researchers, engineers, librarians, editors, security practitioners, and of course donors. If you're interested in lending a hand, and getting in on the ground floor, please drop a line to [Support](mailto:support@gamayun.org).
+Starting anything new and sufficiently different is a scary and challenging experience. No one can do it alone and stay healthy (or sane). To succeed, CISRR needs help from a wide variety of people: researchers, engineers, librarians, editors, security practitioners, and of course donors. If you're interested in lending a hand, and getting in on the ground floor, please drop a line to [Contribute](mailto:contribute@cisrr.org).
