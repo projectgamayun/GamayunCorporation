@@ -21,4 +21,4 @@ Our first project is the Computer and Information Security Research Repository (
 
 We need your input about what would make CISRR a useful resource. We have our ideas, but we're one voice out of tens of thousands.
 
-If you have any of the skills listed above, especially enthusiastic amateurs, feel that you can contribute to the cause in some other fashion, [contact us](contact.md).
+If you have any of the skills listed above, especially enthusiastic amateurs, feel that you can contribute to the cause in some other fashion, [contact us](mailto:contribute@cisrr.org).
