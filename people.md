@@ -17,4 +17,4 @@ We are nothing without the people who believe in us.
 
 ***
 
-[ [Projects](projects.md) ] [ [People](people.md) ] [ [Requirements](requirements.md) ] [ [Contact](contact.md) ]
+[ [Projects](projects.md) ] [ [People](people.md)  [ [Contact](contact.md) ]
