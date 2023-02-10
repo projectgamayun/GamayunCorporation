@@ -1,6 +1,6 @@
 ## People
 
-The dream of Gamayun is just that without the right people to make it happen.
+We are nothing without the people who believe in us.
 
 ### Staff
 
